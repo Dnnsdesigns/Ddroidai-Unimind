@@ -1,0 +1,13 @@
+your_project/
+├── main.py
+├── master_agent.py
+├── shared_memory.py
+├── learning_agent.py
+├── user_interface.py
+├── requirements.txt
+└── subordinate_agents/
+    ├── __init__.py
+    ├── reasoning_agent.py
+    ├── memory_agent.py
+    └── creative_agent.py
+  
